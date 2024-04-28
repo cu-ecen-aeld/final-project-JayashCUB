@@ -1,0 +1,5 @@
+
+config BR2_PACKAGE_AESD_CLIENT
+	bool "aesd-client"
+	help
+	  Includes the function to test our client part
